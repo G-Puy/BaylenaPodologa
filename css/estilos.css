@@ -87,7 +87,7 @@
 #idCuidadosDelPie h2 {
     margin-top: 1rem;
     color: black;
-    border: 20px solid #f8c257d3;
+    border: 15px solid #f8c257d3;
   padding: 15px;
    
 }
@@ -112,6 +112,9 @@
 
 }
 
+#idNoHayQueHacer figure{
+    max-width: 150px;
+}
 #idNoHayQueHacer article div {
     margin-top: 0;
     margin-right: 0;
